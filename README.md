@@ -1,2 +1,2 @@
 # Function-Assignment-Solutions
-Both Theory and Practical Solution are at same file
+Both Theory and Practical Solution are in same file
